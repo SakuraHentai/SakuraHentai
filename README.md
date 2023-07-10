@@ -1,6 +1,8 @@
-### Hihi~
+### Hi hi~ 👋
 
-[Yoru.me](https://yoru.me)
+👉 [Yoru.me](https://yoru.me)
+
+[![Sakura's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurahentai&layout=compact)](https://yoru.me)
 
 <!--
 **SakuraHentai/SakuraHentai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
